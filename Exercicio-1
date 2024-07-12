@@ -1,4 +1,3 @@
-//Nome do exercicio
 public class {
 public static void Main (Strring [] args) {
 systen.out.println("Hello World");
